@@ -7,6 +7,7 @@ Here you'll be able to see how I've put together my portfolio. Please bear in mi
 ## Current version:
 * I'm using React, with Next.js to create server side rendered content
 * My content is hosted on Wordpress, I'm using the latest version of WP API and ACF
+* Redux is used to handle these API requests
 * The design was put together in XD, Illustrator and Photoshop (and a few other bits and pieces)
 * I'm also trying out Storybook to try out UX component testing
 

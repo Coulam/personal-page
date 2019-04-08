@@ -1,7 +1,7 @@
 /* The default wrapper for all pages */
 import Meta from '../components/Meta/Meta'
-import Footer from '../components/Footer/Footer'
-import Navigation from '../components/Navigation/Navigation'
+import Footer from '../components/organisms/Footer/Footer'
+import Navigation from '../components/organisms/Navigation/Navigation'
 
 export default ({ children }) => (
   <div>
