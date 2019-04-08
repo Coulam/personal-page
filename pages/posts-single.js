@@ -23,10 +23,6 @@ export default class extends Component {
     let meta = this.props.post.yoast_meta
     return (
       <Fragment>
-        <Meta title={meta.yoast_wpseo_title}
-        description={meta.yoast_wpseo_metadesc}
-        canonical={meta.yoast_wpseo_canonical} />
-        <Navigation/>
         <h1>{ this.props.post.title.rendered }</h1>
         <article
           className="entry-content"

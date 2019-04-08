@@ -35,7 +35,7 @@ export default class Slider extends React.Component {
   render() {
     return (
       <div>
-        <div class="siema">
+        <div className="siema">
           <div>Hi, I'm slide 1</div>
           <div>Hi, I'm slide 2</div>
           <div>Hi, I'm slide 3</div>
