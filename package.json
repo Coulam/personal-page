@@ -16,11 +16,17 @@
     "express": "^4.16.4",
     "next": "^8.0.4",
     "next-page-transitions": "^1.0.0-beta.2",
+    "next-redux-wrapper": "^3.0.0-alpha.2",
     "next-routes": "^1.4.2",
     "node-sass": "^4.11.0",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "siema": "^1.5.1"
+  },
+  "devDependencies": {
+    "redux": "^4.0.1",
+    "react-redux": "^6.0.1",
+    "redux-thunk": "^2.3.0"
   }
 }
