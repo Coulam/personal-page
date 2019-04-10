@@ -1,4 +1,4 @@
-import Navigation from '../components/Navigation/Navigation'
+import Navigation from '../components/organisms/Navigation/Navigation'
 import Meta from '../components/Meta/Meta'
 import React, { Component } from 'react'
 import axios from 'axios';
